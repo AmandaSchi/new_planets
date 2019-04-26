@@ -1,0 +1,23 @@
+commit 4ba6fa87cd8d75c513fbab8205d4901df2da96b6
+Author: Amanda Schilling <amanda.schilling@ou.edu>
+Date:   Fri Apr 26 15:13:00 2019 -0500
+
+    created venus data file
+
+commit 43541f4844423a1017e1b4efbd92809e8e25febd
+Author: Amanda Schilling <amanda.schilling@ou.edu>
+Date:   Fri Apr 26 14:48:47 2019 -0500
+
+    added info on life and temp
+
+commit de7f6988b6d7cf4d98cc5e88f978c54130d09ca7
+Author: Amanda Schilling <amanda.schilling@ou.edu>
+Date:   Fri Apr 26 14:42:30 2019 -0500
+
+    added info about water and position
+
+commit 0bd6210215e66b2a37b9dd43d87cc139432725ce
+Author: Amanda Schilling <amanda.schilling@ou.edu>
+Date:   Fri Apr 26 14:38:09 2019 -0500
+
+    added first comment on Mars
